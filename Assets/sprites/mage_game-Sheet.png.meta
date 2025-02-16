@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 4e13db0a9e077824a82fecaa19b93878
+guid: a50e31ac44e09a264938f0b1e9b911f6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8685267641915337451
-    second: mage game-Sheet_0
+      213: 5404039779955453187
+    second: mage_game-Sheet_0
   - first:
-      213: -2285674880177857626
-    second: mage game-Sheet_1
+      213: -4113809840882430384
+    second: mage_game-Sheet_1
   - first:
-      213: -9047918468151630838
-    second: mage game-Sheet_2
+      213: -1869754431850222025
+    second: mage_game-Sheet_2
   - first:
-      213: -4627247546810368774
-    second: mage game-Sheet_3
+      213: 3278482530435062450
+    second: mage_game-Sheet_3
   - first:
-      213: 999056915804670426
-    second: mage game-Sheet_4
+      213: 8110023268662174507
+    second: mage_game-Sheet_4
   - first:
-      213: 1471614954170694977
-    second: mage game-Sheet_5
+      213: -5859627306750789509
+    second: mage_game-Sheet_5
   - first:
-      213: -167099939395826289
-    second: mage game-Sheet_6
+      213: -64024574934055379
+    second: mage_game-Sheet_6
   - first:
-      213: 1795943644002435760
-    second: mage game-Sheet_7
+      213: -2287032911954150155
+    second: mage_game-Sheet_7
   - first:
-      213: -1825641772229223331
-    second: mage game-Sheet_8
+      213: 1995575271396886539
+    second: mage_game-Sheet_8
   - first:
-      213: -328363921438823347
-    second: mage game-Sheet_9
+      213: -3304481915854768883
+    second: mage_game-Sheet_9
   - first:
-      213: 2478654484692648182
-    second: mage game-Sheet_10
+      213: 7353536249900823470
+    second: mage_game-Sheet_10
   - first:
-      213: 8526126467778029900
-    second: mage game-Sheet_11
+      213: 2621633383202846099
+    second: mage_game-Sheet_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,13 +146,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mage game-Sheet_0
+      name: mage_game-Sheet_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 25
-        width: 24
-        height: 28
+        x: 159
+        y: 207
+        width: 178
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: beaee8f57e4488870800000000000000
-      internalID: 8685267641915337451
+      spriteID: 30d235c4c810ffa40800000000000000
+      internalID: 5404039779955453187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_1
+      name: mage_game-Sheet_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 25
-        width: 24
-        height: 27
+        x: 671
+        y: 207
+        width: 178
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ab17f67ec6a740e0800000000000000
-      internalID: -2285674880177857626
+      spriteID: 05e42b0eebfc8e6c0800000000000000
+      internalID: -4113809840882430384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_2
+      name: mage_game-Sheet_2
       rect:
         serializedVersion: 2
-        x: 147
-        y: 25
-        width: 24
-        height: 28
+        x: 1183
+        y: 207
+        width: 178
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a04202557165f6280800000000000000
-      internalID: -9047918468151630838
+      spriteID: 73eea58204c4d06e0800000000000000
+      internalID: -1869754431850222025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_3
+      name: mage_game-Sheet_3
       rect:
         serializedVersion: 2
-        x: 211
-        y: 25
-        width: 24
-        height: 27
+        x: 1695
+        y: 207
+        width: 178
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,20 +227,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afcf1945fd6b8cfb0800000000000000
-      internalID: -4627247546810368774
+      spriteID: 2bad7e4cd728f7d20800000000000000
+      internalID: 3278482530435062450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_4
+      name: mage_game-Sheet_4
       rect:
         serializedVersion: 2
-        x: 275
-        y: 25
-        width: 24
-        height: 28
+        x: 2207
+        y: 207
+        width: 178
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,20 +249,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad94fe0c8fc5ddd00800000000000000
-      internalID: 999056915804670426
+      spriteID: b23e2c0b1379c8070800000000000000
+      internalID: 8110023268662174507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_5
+      name: mage_game-Sheet_5
       rect:
         serializedVersion: 2
-        x: 339
-        y: 25
-        width: 24
-        height: 27
+        x: 2719
+        y: 207
+        width: 178
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 14d3f7df00a3c6410800000000000000
-      internalID: 1471614954170694977
+      spriteID: b78b0f8920c6eaea0800000000000000
+      internalID: -5859627306750789509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_6
+      name: mage_game-Sheet_6
       rect:
         serializedVersion: 2
-        x: 403
-        y: 25
-        width: 24
-        height: 28
+        x: 3231
+        y: 207
+        width: 178
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +293,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8d825e8d775eadf0800000000000000
-      internalID: -167099939395826289
+      spriteID: d2609220df98c1ff0800000000000000
+      internalID: -64024574934055379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_7
+      name: mage_game-Sheet_7
       rect:
         serializedVersion: 2
-        x: 467
-        y: 25
-        width: 24
-        height: 27
+        x: 3743
+        y: 207
+        width: 178
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,20 +315,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b2c2699a397ce810800000000000000
-      internalID: 1795943644002435760
+      spriteID: 5fc785d0fa3d240e0800000000000000
+      internalID: -2287032911954150155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_8
+      name: mage_game-Sheet_8
       rect:
         serializedVersion: 2
-        x: 531
-        y: 25
-        width: 24
-        height: 28
+        x: 4255
+        y: 207
+        width: 178
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,20 +337,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5c99271b740aa6e0800000000000000
-      internalID: -1825641772229223331
+      spriteID: b084a26e225b1bb10800000000000000
+      internalID: 1995575271396886539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_9
+      name: mage_game-Sheet_9
       rect:
         serializedVersion: 2
-        x: 595
-        y: 25
-        width: 24
-        height: 27
+        x: 4767
+        y: 207
+        width: 178
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,20 +359,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4ca591d0ca617bf0800000000000000
-      internalID: -328363921438823347
+      spriteID: d0536c6943f1422d0800000000000000
+      internalID: -3304481915854768883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_10
+      name: mage_game-Sheet_10
       rect:
         serializedVersion: 2
-        x: 659
-        y: 25
-        width: 24
-        height: 28
+        x: 5279
+        y: 207
+        width: 178
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,20 +381,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f0c8011f13f56220800000000000000
-      internalID: 2478654484692648182
+      spriteID: ea3fb4232420d0660800000000000000
+      internalID: 7353536249900823470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mage game-Sheet_11
+      name: mage_game-Sheet_11
       rect:
         serializedVersion: 2
-        x: 723
-        y: 25
-        width: 24
-        height: 27
+        x: 5791
+        y: 207
+        width: 178
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,8 +403,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4927fd59d2e25670800000000000000
-      internalID: 8526126467778029900
+      spriteID: 3957c190ca9e16420800000000000000
+      internalID: 2621633383202846099
       vertices: []
       indices: 
       edges: []
@@ -423,18 +423,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      mage game-Sheet_0: 8685267641915337451
-      mage game-Sheet_1: -2285674880177857626
-      mage game-Sheet_10: 2478654484692648182
-      mage game-Sheet_11: 8526126467778029900
-      mage game-Sheet_2: -9047918468151630838
-      mage game-Sheet_3: -4627247546810368774
-      mage game-Sheet_4: 999056915804670426
-      mage game-Sheet_5: 1471614954170694977
-      mage game-Sheet_6: -167099939395826289
-      mage game-Sheet_7: 1795943644002435760
-      mage game-Sheet_8: -1825641772229223331
-      mage game-Sheet_9: -328363921438823347
+      mage_game-Sheet_0: 5404039779955453187
+      mage_game-Sheet_1: -4113809840882430384
+      mage_game-Sheet_10: 7353536249900823470
+      mage_game-Sheet_11: 2621633383202846099
+      mage_game-Sheet_2: -1869754431850222025
+      mage_game-Sheet_3: 3278482530435062450
+      mage_game-Sheet_4: 8110023268662174507
+      mage_game-Sheet_5: -5859627306750789509
+      mage_game-Sheet_6: -64024574934055379
+      mage_game-Sheet_7: -2287032911954150155
+      mage_game-Sheet_8: 1995575271396886539
+      mage_game-Sheet_9: -3304481915854768883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
