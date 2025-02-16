@@ -85,7 +85,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      explosion-Sheet_0: 8334855865074418800
+      explosion-Sheet_1: 3206615041757511720
+      explosion-Sheet_10: -1937960364587855871
+      explosion-Sheet_11: 8404117684291413880
+      explosion-Sheet_12: -5798148074040834200
+      explosion-Sheet_13: 270464343803079796
+      explosion-Sheet_14: 2289823867010309176
+      explosion-Sheet_15: 6658685003702200480
+      explosion-Sheet_16: -4648921401527046154
+      explosion-Sheet_2: 3927885074643360825
+      explosion-Sheet_3: 3967493871192301097
+      explosion-Sheet_4: -8271988938590099505
+      explosion-Sheet_5: 744773361678982964
+      explosion-Sheet_6: -8214989258514109011
+      explosion-Sheet_7: 7947203113725667511
+      explosion-Sheet_8: 6538621632521163712
+      explosion-Sheet_9: 5899307184810280105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

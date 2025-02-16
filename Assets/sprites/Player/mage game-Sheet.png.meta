@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mage game-Sheet_0: 8685267641915337451
+      mage game-Sheet_1: -2285674880177857626
+      mage game-Sheet_10: 2478654484692648182
+      mage game-Sheet_11: 8526126467778029900
+      mage game-Sheet_2: -9047918468151630838
+      mage game-Sheet_3: -4627247546810368774
+      mage game-Sheet_4: 999056915804670426
+      mage game-Sheet_5: 1471614954170694977
+      mage game-Sheet_6: -167099939395826289
+      mage game-Sheet_7: 1795943644002435760
+      mage game-Sheet_8: -1825641772229223331
+      mage game-Sheet_9: -328363921438823347
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

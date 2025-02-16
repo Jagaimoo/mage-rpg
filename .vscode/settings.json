@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "mage rpg.sln"
+    "dotnet.defaultSolution": "mage-rpg.sln"
 }
